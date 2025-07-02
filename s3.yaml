@@ -1,0 +1,8 @@
+# S3 Bucket Template
+Resource:
+  AppBUcket:
+   Type: S3::Bucket
+   properties:
+   name: mybucket
+   region: ap-south-1
+    
